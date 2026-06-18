@@ -862,6 +862,31 @@ class GutenbergHTMLParser(HTMLParser):
                 }
                 return
 
+        # For anchor tags with IDs: check if they match TOC anchors (common in poetry)
+        if tag == 'a' and 'id' in attrs_dict:
+            anchor_id = attrs_dict['id']
+            # Check if this anchor is in our TOC list
+            if anchor_id in self.toc_anchors:
+                # Save previous section
+                if self.current_section:
+                    self._save_section()
+
+                # Determine section type based on ID patterns
+                section_type = 'chapter'  # Default for poems/sections
+                if 'pref' in anchor_id.lower() or 'intro' in anchor_id.lower():
+                    section_type = 'front_matter'
+                elif any(kw in anchor_id.lower() for kw in ['append', 'index', 'glossary', 'notes']):
+                    section_type = 'back_matter'
+
+                self.in_toc = False
+                self.current_section = {
+                    'id': anchor_id,
+                    'type': section_type,
+                    'title': None,  # Will be filled from next heading
+                    'content': []
+                }
+                return
+
         # Track images
         if tag == 'img' and 'src' in attrs_dict:
             self.images_found.append(attrs_dict['src'])
