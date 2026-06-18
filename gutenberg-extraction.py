@@ -1009,8 +1009,9 @@ class GutenbergHTMLParser(HTMLParser):
                 self.current_content = []
             elif tag == 'pre':
                 if content:
-                    # Preserve pre-formatted text (poetry, code blocks)
-                    self.current_section['content'].append(content + '\n\n')
+                    # Preserve pre-formatted text (poetry, code blocks) using HTML <pre> tags
+                    # Markdown allows HTML, and <pre> preserves whitespace/line breaks
+                    self.current_section['content'].append(f'<pre>\n{content}\n</pre>\n\n')
                 self.current_content = []
                 self.in_pre = False
             # Note: h1-h4 are handled in the heading block above
@@ -1132,9 +1133,9 @@ class WholeBookParser(HTMLParser):
             self.content.append(text + '\n\n')
             self.current_text = []
         elif tag == 'pre' and text:
-            # Preserve pre-formatted text (poetry, code blocks)
-            # Each line becomes a separate line in markdown
-            self.content.append(text + '\n\n')
+            # Preserve pre-formatted text (poetry, code blocks) using HTML <pre> tags
+            # Markdown allows HTML, and <pre> preserves whitespace/line breaks
+            self.content.append(f'<pre>\n{text}\n</pre>\n\n')
             self.current_text = []
             self.in_pre = False
         elif tag == 'h1' and text:
