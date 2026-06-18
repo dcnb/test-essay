@@ -4,7 +4,7 @@ order: 2
 ---
 ## TO THE PUBLIC.
 
-AS it has been repeatedly suggested to the Publisher, by Persons, who have
+<pre>AS it has been repeatedly suggested to the Publisher, by Persons, who have
       seen the Manuscript, that Numbers would be ready to suspect they were not
       really the Writings of PHILLIS, he has procured the following Attestation,
       from the most respectable Characters in Boston, that none might have the
@@ -40,6 +40,6 @@ His Excellency THOMAS HUTCHINSON, Governor.
     *The Words “following Page,” allude to the Contents
   of the Manuscript Copy, which are wrote at the
   Back of the above Attestation.
-
+</pre>
 
 ---
