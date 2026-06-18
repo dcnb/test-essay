@@ -17,12 +17,11 @@
 # - Collection objectid: demo_001
 #
 image-style: full-image                # full-image, half-image, or no-image
-featured-image: https://www.gutenberg.org/cache/epub/409/pg409.cover.medium.jpg
-featured-image-credit: "This is a cover of the Poems on various subjects, religious
-  and moral by Wheatley, Phillis, 1753-1784 as extracted from Project Gutenberg; it
-  can be found here: https://www.gutenberg.org/ebooks/409"
-featured-image-alt-text: "Cover image of Poems on various subjects, religious and
-  moral"                                                                           # Add alt text for accessibility
+featured-image: https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg
+featured-image-credit: "This is a cover of the Frankenstein; or, the modern prometheus
+  by Shelley, Mary Wollstonecraft, 1797-1851 as extracted from Project Gutenberg;
+  it can be found here: https://www.gutenberg.org/ebooks/84"
+featured-image-alt-text: "Cover image of Frankenstein; or, the modern prometheus"  # Add alt text for accessibility
 
 
 # NAVIGATION FEATURES
