@@ -792,6 +792,7 @@ class GutenbergHTMLParser(HTMLParser):
         self.current_heading_tag = None
         self.pending_section_id = None  # ID to use when heading text is captured
         self.pending_section_type = None
+        self.in_pre = False
 
     def _check_element_id(self, element_id: str) -> Tuple[bool, str]:
         """Check if element ID indicates a section boundary."""
@@ -872,6 +873,9 @@ class GutenbergHTMLParser(HTMLParser):
         if self.current_section and not self.in_boilerplate:
             if tag == 'p':
                 self.current_content = []
+            elif tag == 'pre':
+                self.current_content = []
+                self.in_pre = True
             elif tag == 'hr':
                 self.current_section['content'].append('\n---\n')
             elif tag == 'blockquote':
@@ -978,6 +982,12 @@ class GutenbergHTMLParser(HTMLParser):
                 if content:
                     self.current_section['content'].append(content + '\n\n')
                 self.current_content = []
+            elif tag == 'pre':
+                if content:
+                    # Preserve pre-formatted text (poetry, code blocks)
+                    self.current_section['content'].append(content + '\n\n')
+                self.current_content = []
+                self.in_pre = False
             # Note: h1-h4 are handled in the heading block above
             elif tag == 'blockquote':
                 if content:
@@ -1049,6 +1059,7 @@ class WholeBookParser(HTMLParser):
         self.current_text = []
         self.in_boilerplate = False
         self.boilerplate_depth = 0
+        self.in_pre = False
 
     def handle_starttag(self, tag, attrs):
         attrs_dict = dict(attrs)
@@ -1067,6 +1078,9 @@ class WholeBookParser(HTMLParser):
 
         if tag == 'p':
             self.current_text = []
+        elif tag == 'pre':
+            self.current_text = []
+            self.in_pre = True
         elif tag in ('h1', 'h2', 'h3', 'h4'):
             self.current_text = []
         elif tag == 'br':
@@ -1092,6 +1106,12 @@ class WholeBookParser(HTMLParser):
         if tag == 'p' and text:
             self.content.append(text + '\n\n')
             self.current_text = []
+        elif tag == 'pre' and text:
+            # Preserve pre-formatted text (poetry, code blocks)
+            # Each line becomes a separate line in markdown
+            self.content.append(text + '\n\n')
+            self.current_text = []
+            self.in_pre = False
         elif tag == 'h1' and text:
             self.content.append(f'# {text}\n\n')
             self.current_text = []
@@ -1108,7 +1128,11 @@ class WholeBookParser(HTMLParser):
 
     def handle_data(self, data):
         if not self.in_boilerplate and data:
-            self.current_text.append(data)
+            # In <pre> tags, preserve whitespace and newlines
+            if self.in_pre:
+                self.current_text.append(data)
+            else:
+                self.current_text.append(data)
 
     def get_content(self) -> str:
         return ''.join(self.content).strip()
@@ -1554,7 +1578,7 @@ def extract_book(book_id: str, output_base: str = './books', slug: str = None,
     if not chapters and not front_matter:
         print("  No chapters detected - extracting as single document...")
         whole_parser = WholeBookParser()
-        whole_parser.feed(html_content)
+        whole_parser.feed(clean_html)
         content = whole_parser.get_content()
 
         if content:
