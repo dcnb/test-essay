@@ -156,6 +156,11 @@ aside, .aside {
     user-select: none;
 }
 
+/* When flags are active, make refs clickable */
+.aside-ref.clickable {
+    cursor: pointer;
+}
+
 /* Number prepended inside aside on desktop */
 .aside-num {
     font-size: 0.72em;

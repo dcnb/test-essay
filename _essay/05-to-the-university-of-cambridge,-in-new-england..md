@@ -13,7 +13,7 @@ WHILE an intrinsic ardor prompts to write,
   Brought me in safety from those dark abodes.
        Students, to you ’tis giv’n to scan the heights
   Above, to traverse the ethereal space,
-  And mark the systems of revolving worlds.
+  And mark the systems of revolving worlds. {% include essay/feature/aside.html text="This is a poem about the [University of Cambridge](https://www.cam.ac.uk/)" %}
   Still more, ye sons of science ye receive
   The blissful news by messengers from heav’n,
   How Jesus’ blood for your redemption flows.

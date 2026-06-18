@@ -36,6 +36,16 @@ show-homepage-toc: true
 show-section-nav: true
 # true ==  essay pages show a fixed floating sidebar (on wide screens)
 
+# ASIDE DISPLAY MODE
+# Controls how margin notes/asides appear in essays
+# Options: auto | margin | flags
+#
+# auto (default) - Smart detection: uses flags for asides inside <pre> tags (poems),
+#                  margin asides for regular text. Flags on mobile (<768px) regardless.
+# margin - Always use traditional margin asides on desktop (float right into margin)
+# flags - Always use flag/modal system on all screen sizes
+aside-display-mode: auto
+
 
 
 
