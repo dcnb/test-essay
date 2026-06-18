@@ -4,6 +4,7 @@ order: 16
 ---
 ## TO A LADY ON THE DEATH OF THREE RELATIONS.
 
+<pre>
 WE trace the pow’r of Death from tomb to tomb,
   And his are all the ages yet to come.
   ’Tis his to call the planets from on high,
@@ -35,6 +36,7 @@ WE trace the pow’r of Death from tomb to tomb,
   And raptur’d seraphs tune th’ immortal strings
   To strains extatic.  Thou the chorus join,
   And to thy father tune the praise divine.
+</pre>
 
 
 ---

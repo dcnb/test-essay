@@ -4,6 +4,7 @@ order: 11
 ---
 ## ON THE DEATH OF A YOUNG LADY OF FIVE YEARS OF AGE.
 
+<pre>
 FROM dark abodes to fair etherial light
   Th’ enraptur’d innocent has wing’d her flight;
   On the kind bosom of eternal love
@@ -40,6 +41,7 @@ FROM dark abodes to fair etherial light
   And from its rocks, and boist’rous billows free,
   Yourselves, safe landed on the blissful shore,
   Shall join your happy babe to part no more.
+</pre>
 
 
 ---

@@ -4,6 +4,7 @@ order: 8
 ---
 ## ON BEING BROUGHT FROM AFRICA TO AMERICA.
 
+<pre>
 ’Twas mercy brought me from my Pagan land,
   Taught my benighted soul to understand
   That there’s a God, that there’s a Saviour too:
@@ -12,6 +13,7 @@ order: 8
   “Their colour is a diabolic die.”
    Remember, Christians, Negroes, black as Cain,
   May be refin’d, and join th’ angelic train.
+</pre>
 
 
 ---

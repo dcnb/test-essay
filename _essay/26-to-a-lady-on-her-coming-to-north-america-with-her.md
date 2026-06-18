@@ -5,6 +5,7 @@ order: 27
 ## TO A LADY ON HER COMING TO NORTH-AMERICA WITH HER SON, FOR THE RECOVERY OF
       HER HEALTH.
 
+<pre>
 INDULGENT muse! my grov’ling mind inspire,
   And fill my bosom with celestial fire.
   See from Jamaica’s fervid shore she moves,
@@ -39,6 +40,7 @@ INDULGENT muse! my grov’ling mind inspire,
   Springs to his father’s ever dear embrace.
   With shouts of joy Jamaica’s rocks resound,
   With shouts of joy the country rings around.
+</pre>
 
 
 ---

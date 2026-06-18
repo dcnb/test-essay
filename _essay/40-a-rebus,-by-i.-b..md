@@ -4,6 +4,7 @@ order: 41
 ---
 ## A REBUS, BY I. B.
 
+<pre>
 I.
 
   A BIRD delicious to the taste,
@@ -30,6 +31,7 @@ I.
   Th’ initials show a vanquish’d town,
   That adds fresh glory and renown
     To old Britannia’s fame.
+</pre>
 
 
 ---

@@ -5,6 +5,7 @@ order: 32
 ## TO A GENTLEMAN ON HIS VOYAGE TO GREAT-BRITAIN FOR THE RECOVERY OF HIS
       HEALTH.
 
+<pre>
 WHILE others chant of gay Elysian scenes,
   Of balmy zephyrs, and of flow’ry plains,
   My song more happy speaks a greater name,
@@ -37,6 +38,7 @@ WHILE others chant of gay Elysian scenes,
   Replete with vigour not his own before,
   Then shall we see with pleasure and surprise,
   And own thy work, great Ruler of the skies!
+</pre>
 
 
 ---

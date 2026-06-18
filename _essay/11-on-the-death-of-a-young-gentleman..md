@@ -4,6 +4,7 @@ order: 12
 ---
 ## ON THE DEATH OF A YOUNG GENTLEMAN.
 
+<pre>
 WHO taught thee conflict with the pow’rs of night,
   To vanquish satan in the fields of light?
   Who strung thy feeble arms with might unknown,
@@ -28,6 +29,7 @@ WHO taught thee conflict with the pow’rs of night,
   And spread the dawn of glory through the soul,
   To eye the path the saint departed trod,
   And trace him to the bosom of his God.
+</pre>
 
 
 ---

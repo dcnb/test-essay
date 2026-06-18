@@ -4,6 +4,7 @@ order: 6
 ---
 ## TO THE UNIVERSITY OF CAMBRIDGE, IN NEW-ENGLAND.
 
+<pre>
 WHILE an intrinsic ardor prompts to write,
   The muses promise to assist my pen;
   ’Twas not long since I left my native shore
@@ -34,6 +35,7 @@ WHILE an intrinsic ardor prompts to write,
   An Ethiop tells you ’tis your greatest foe;
   Its transient sweetness turns to endless pain,
   And in immense perdition sinks the soul.
+</pre>
 
 
 ---

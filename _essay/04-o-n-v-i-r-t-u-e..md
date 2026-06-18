@@ -4,6 +4,7 @@ order: 5
 ---
 ## O N  V I R T U E.
 
+<pre>
 O Thou bright jewel in my aim I strive
   To comprehend thee.  Thine own words declare
   Wisdom is higher than a fool can reach.
@@ -25,6 +26,7 @@ O Thou bright jewel in my aim I strive
   To give me an higher appellation still,
   Teach me a better strain, a nobler lay,
   O thou, enthron’d with Cherubs in the realms of day.
+</pre>
 
 
 ---

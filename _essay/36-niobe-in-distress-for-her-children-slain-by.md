@@ -6,6 +6,7 @@ order: 37
       METAMORPHOSES, BOOK VI. AND FROM A VIEW OF THE PAINTING OF MR. RICHARD
       WILSON.
 
+<pre>
 APOLLO’s wrath to man the dreadful spring
   Of ills innum’rous, tuneful goddess, sing!
   Thou who did’st first th’ ideal pencil give,
@@ -234,6 +235,7 @@ APOLLO’s wrath to man the dreadful spring
   “And ev’n her bowels hard’ned into stone:
   “A marble statue now the queen appears,
   “But from the marble steal the silent tears.”
+</pre>
 
 
 ---

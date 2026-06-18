@@ -4,6 +4,7 @@ order: 24
 ---
 ## TO CAPTAIN H———D, OF THE 65TH REGIMENT.
 
+<pre>
 SAY, muse divine, can hostile scenes delight
   The warrior’s bosom in the fields of fight?
   Lo! here the christian and the hero join
@@ -14,6 +15,7 @@ SAY, muse divine, can hostile scenes delight
   And add new glories to thine honour’d name,
   Still to the field, and still to virtue true:
   Britannia glories in no son like you.
+</pre>
 
 
 ---

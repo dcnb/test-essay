@@ -4,6 +4,7 @@ order: 21
 ---
 ## ON RECOLLECTION.
 
+<pre>
 MNEME begin.  Inspire, ye sacred nine,
   Your vent’rous Afric in her great design.
   Mneme, immortal pow’r, I trace thy spring:
@@ -54,6 +55,7 @@ MNEME begin.  Inspire, ye sacred nine,
   To ev’ry holy, ev’ry upright heart!
   Thrice blest the man, who, in her sacred shrine,
   Feels himself shelter’d from the wrath divine!
+</pre>
 
 
 ---

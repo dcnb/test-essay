@@ -4,6 +4,7 @@ order: 23
 ---
 ## A FUNERAL POEM ON THE DEATH OF C. E. AN INFANT OF TWELVE MONTHS.
 
+<pre>
 THROUGH airy roads he wings his instant flight
   To purer regions of celestial light;
   Enlarg’d he sees unnumber’d systems roll,
@@ -50,6 +51,7 @@ THROUGH airy roads he wings his instant flight
      To yon bright regions let your faith ascend,
   Prepare to join your dearest infant friend
   In pleasures without measure, without end.
+</pre>
 
 
 ---

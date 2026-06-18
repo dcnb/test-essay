@@ -4,7 +4,7 @@ order: 2
 ---
 ## TO THE PUBLIC.
 
-<pre>AS it has been repeatedly suggested to the Publisher, by Persons, who have
+AS it has been repeatedly suggested to the Publisher, by Persons, who have
       seen the Manuscript, that Numbers would be ready to suspect they were not
       really the Writings of PHILLIS, he has procured the following Attestation,
       from the most respectable Characters in Boston, that none might have the
@@ -18,6 +18,7 @@ WE whose Names are under-written, do assure the World, that the POEMS
       has been examined by some of the best Judges, and is thought qualified to
       write them.
 
+<pre>
 His Excellency THOMAS HUTCHINSON, Governor.
 
     The Hon. ANDREW OLIVER, Lieutenant-Governor.
@@ -41,5 +42,6 @@ His Excellency THOMAS HUTCHINSON, Governor.
   of the Manuscript Copy, which are wrote at the
   Back of the above Attestation.
 </pre>
+
 
 ---

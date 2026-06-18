@@ -5,6 +5,7 @@ order: 28
 ## TO A LADY ON HER REMARKABLE PRESERVATION IN AN HURRICANE IN
       NORTH-CAROLINA.
 
+<pre>
 THOUGH thou did’st hear the tempest from afar,
   And felt’st the horrors of the wat’ry war,
   To me unknown, yet on this peaceful shore
@@ -37,6 +38,7 @@ THOUGH thou did’st hear the tempest from afar,
   Again thou see’st, again thine arms embrace;
   O come, and joyful show thy spouse his heir,
   And what the blessings of maternal care!
+</pre>
 
 
 ---

@@ -4,6 +4,7 @@ order: 19
 ---
 ## AN HYMN TO THE EVENING.
 
+<pre>
 SOON as the sun forsook the eastern main
   The pealing thunder shook the heav’nly plain;
   Majestic grandeur!  From the zephyr’s wing,
@@ -22,6 +23,7 @@ SOON as the sun forsook the eastern main
   More pure, more guarded from the snares of sin.
     Night’s leaden sceptre seals my drowsy eyes,
   Then cease, my song, till fair Aurora rise.
+</pre>
 
 
 ---

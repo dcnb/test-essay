@@ -4,6 +4,7 @@ order: 36
 ---
 ## TO THE HONOURABLE T. H. ESQ; ON THE DEATH OF HIS DAUGHTER.
 
+<pre>
 WHILE deep you mourn beneath the cypress-shade
   The hand of Death, and your dear daughter laid
   In dust, whose absence gives your tears to flow,
@@ -44,6 +45,7 @@ WHILE deep you mourn beneath the cypress-shade
   “And secret wish for T——-! to return:
   “Let brighter scenes your ev’ning-hours employ:
   “Converse with heav’n, and taste the promis’d joy”
+</pre>
 
 
 ---

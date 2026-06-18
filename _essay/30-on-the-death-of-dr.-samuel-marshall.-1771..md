@@ -4,6 +4,7 @@ order: 31
 ---
 ## ON THE DEATH OF DR. SAMUEL MARSHALL. 1771.
 
+<pre>
 THROUGH thickest glooms look back, immortal shade,
   On that confusion which thy death has made:
   Or from Olympus’ height look down, and see
@@ -32,6 +33,7 @@ THROUGH thickest glooms look back, immortal shade,
   From yonder world unseen must come no more,
   Yet ‘midst our woes immortal hopes attend
   The spouse, the sire, the universal friend.
+</pre>
 
 
 ---

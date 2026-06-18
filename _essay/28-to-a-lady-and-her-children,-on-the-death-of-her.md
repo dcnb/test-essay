@@ -4,6 +4,7 @@ order: 29
 ---
 ## TO A LADY AND HER CHILDREN, ON THE DEATH OF HER SON AND THEIR BROTHER.
 
+<pre>
 O’ERWHELMING sorrow now demands my song:
   From death the overwhelming sorrow sprung.
   What flowing tears?  What hearts with grief opprest?
@@ -34,6 +35,7 @@ O’ERWHELMING sorrow now demands my song:
   But haste to join him on the heav’nly shore,
   On harps of gold to tune immortal lays,
   And to your God immortal anthems raise.
+</pre>
 
 
 ---

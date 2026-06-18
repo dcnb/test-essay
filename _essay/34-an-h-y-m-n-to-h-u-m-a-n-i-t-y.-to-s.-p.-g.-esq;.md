@@ -5,6 +5,7 @@ order: 35
 ## AN  H Y M N  TO  H U M A N I T Y.    TO
       S. P. G. ESQ;
 
+<pre>
 I.
 
   LO! for this dark terrestrial ball
@@ -58,6 +59,7 @@ I.
   Immortal Friendship laurel-crown’d
   The smiling Graces all surround
       With ev’ry heav’nly Art.
+</pre>
 
 
 ---

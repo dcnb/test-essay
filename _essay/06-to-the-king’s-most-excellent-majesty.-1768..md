@@ -4,6 +4,7 @@ order: 7
 ---
 ## TO THE KING’S MOST EXCELLENT MAJESTY. 1768.
 
+<pre>
 YOUR subjects hope, dread Sire—
   The crown upon your brows may flourish long,
   And that your arm may in your God be strong!
@@ -21,6 +22,7 @@ YOUR subjects hope, dread Sire—
   A monarch’s smile can set his subjects free!
 
        * The Repeal of the Stamp Act.
+</pre>
 
 
 ---

@@ -4,6 +4,7 @@ order: 26
 ---
 ## O D E  T O  N E P T U N E.
 
+<pre>
 On Mrs. W———‘s Voyage to England.
 
                  I.
@@ -34,6 +35,7 @@ On Mrs. W———‘s Voyage to England.
   Not give my wishes to the empty air.
 
     Boston, October 12, 1772.
+</pre>
 
 
 ---

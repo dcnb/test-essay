@@ -4,7 +4,8 @@ order: 9
 ---
 ## ON THE DEATH OF THE REV. DR. SEWELL, 1769.
 
-<pre>ERE yet the morn its lovely blushes spread,
+<pre>
+ERE yet the morn its lovely blushes spread,
   See Sewell number’d with the happy dead.
   Hail, holy man, arriv’d th’ immortal shore,
   Though we shall hear thy warning voice no more.
@@ -55,6 +56,7 @@ order: 9
   “For he my monitor will not return.
   “O when shall we to his blest state arrive?
   “When the same graces in our bosoms thrive.”
-
 </pre>
+
+
 ---

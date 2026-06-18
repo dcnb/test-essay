@@ -4,6 +4,7 @@ order: 18
 ---
 ## AN HYMN TO THE MORNING
 
+<pre>
 ATTEND my lays, ye ever honour’d nine,
   Assist my labours, and my strains refine;
   In smoothest numbers pour the notes along,
@@ -24,6 +25,7 @@ ATTEND my lays, ye ever honour’d nine,
   His rising radiance drives the shades away—
   But Oh! I feel his fervid beams too strong,
   And scarce begun, concludes th’ abortive song.
+</pre>
 
 
 ---

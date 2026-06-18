@@ -4,6 +4,7 @@ order: 38
 ---
 ## TO S. M. A YOUNG AFRICAN PAINTER, ON SEEING HIS WORKS.
 
+<pre>
 TO show the lab’ring bosom’s deep intent,
   And thought in living characters to paint,
   When first thy pencil did those beauties give,
@@ -38,6 +39,7 @@ TO show the lab’ring bosom’s deep intent,
   And purer language on th’ ethereal plain.
   Cease, gentle muse! the solemn gloom of night
   Now seals the fair creation from my sight.
+</pre>
 
 
 ---

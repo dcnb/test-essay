@@ -5,6 +5,7 @@ order: 39
 ## TO HIS HONOUR THE LIEUTENANT-GOVERNOR, ON THE DEATH OF HIS LADY. MARCH 24,
       1773.
 
+<pre>
 ALL-Conquering Death! by thy resistless pow’r,
   Hope’s tow’ring plumage falls to rise no more!
   Of scenes terrestrial how the glories fly,
@@ -52,6 +53,7 @@ ALL-Conquering Death! by thy resistless pow’r,
   But soaring high pursue th’ unbodied mind.
   Forgive the muse, forgive th’ advent’rous lays,
   That fain thy soul to heav’nly scenes would raise.
+</pre>
 
 
 ---

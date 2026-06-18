@@ -4,6 +4,7 @@ order: 13
 ---
 ## TO A LADY ON THE DEATH OF HER HUSBAND.
 
+<pre>
 GRIM monarch! see, depriv’d of vital breath,
   A young physician in the dust of death:
   Dost thou go on incessant to destroy,
@@ -38,6 +39,7 @@ GRIM monarch! see, depriv’d of vital breath,
   To thee, the partner of his earthly loves;
   He welcomes thee to pleasures more refin’d,
   And better suited to th’ immortal mind.
+</pre>
 
 
 ---

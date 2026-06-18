@@ -4,6 +4,7 @@ order: 10
 ---
 ## ON THE DEATH OF THE REV. MR. GEORGE WHITEFIELD. 1770.
 
+<pre>
 HAIL, happy saint, on thine immortal throne,
   Possest of glory, life, and bliss unknown;
   We hear no more the music of thy tongue,
@@ -54,6 +55,7 @@ HAIL, happy saint, on thine immortal throne,
 
   *The Countess of Huntingdon, to whom Mr. Whitefield
    was Chaplain.
+</pre>
 
 
 ---

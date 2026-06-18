@@ -4,6 +4,7 @@ order: 17
 ---
 ## TO A CLERGYMAN ON THE DEATH OF HIS LADY.
 
+<pre>
 WHERE contemplation finds her sacred spring,
   Where heav’nly music makes the arches ring,
   Where virtue reigns unsully’d and divine,
@@ -47,6 +48,7 @@ WHERE contemplation finds her sacred spring,
   Permit the muse a cordial to impart;
   Who can to thee their tend’rest aid refuse?
   To dry thy tears how longs the heav’nly muse!
+</pre>
 
 
 ---

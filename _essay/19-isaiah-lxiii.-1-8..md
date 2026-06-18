@@ -4,6 +4,7 @@ order: 20
 ---
 ## ISAIAH lxiii. 1-8.
 
+<pre>
 SAY, heav’nly muse, what king or mighty God,
   That moves sublime from Idumea’s road?
   In Bosrah’s dies, with martial glories join’d,
@@ -34,6 +35,7 @@ SAY, heav’nly muse, what king or mighty God,
   And all their cunning, all their strength engage,
   Yet she serenely on thy bosom lies,
   Smiles at their arts, and all their force defies.
+</pre>
 
 
 ---

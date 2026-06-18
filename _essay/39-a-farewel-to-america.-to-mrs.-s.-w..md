@@ -4,6 +4,7 @@ order: 40
 ---
 ## A FAREWEL TO AMERICA. TO MRS. S. W.
 
+<pre>
 I.
 
   ADIEU, New-England’s smiling meads,
@@ -73,7 +74,9 @@ I.
       So slow thy rising ray?
   Give us the famous town to view,
       Thou glorious king of day!
+</pre>
 
+<pre>
 XI.
 
   For thee, Britannia, I resign
@@ -96,6 +99,7 @@ XI.
       Of all its pow’r disarms!
 
     Boston, May 7, 1773.
+</pre>
 
 
 ---

@@ -4,6 +4,7 @@ order: 22
 ---
 ## ON IMAGINATION.
 
+<pre>
 THY various works, imperial queen, we see,
     How bright their forms! how deck’d with pomp
       by thee!
@@ -58,6 +59,7 @@ THY various works, imperial queen, we see,
   And northern tempests damp the rising fire;
   They chill the tides of Fancy’s flowing sea,
   Cease then, my song, cease the unequal lay.
+</pre>
 
 
 ---

@@ -4,8 +4,11 @@ order: 14
 ---
 ## G O L I A T H  O F  G A T H.
 
+<pre>
 1 SAMUEL, Chap. xvii.
+</pre>
 
+<pre>
 YE martial pow’rs, and all ye tuneful nine,
   Inspire my song, and aid my high design.
   The dreadful scenes and toils of war I write,
@@ -230,6 +233,7 @@ YE martial pow’rs, and all ye tuneful nine,
   Conferring riches and the royal bride:
   “Knit to my soul for ever thou remain
   “With me, nor quit my regal roof again.”
+</pre>
 
 
 ---

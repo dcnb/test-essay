@@ -4,6 +4,7 @@ order: 4
 ---
 ## TO  M AE C E N A S.
 
+<pre>
 MAECENAS, you, beneath the myrtle shade,
   Read o’er what poets sung, and shepherds play’d.
   What felt those poets but you feel the same?
@@ -62,6 +63,7 @@ MAECENAS, you, beneath the myrtle shade,
   So long thy praise shal’ make Parnassus ring:
   Then grant, Maecenas, thy paternal rays,
   Hear me propitious, and defend my lays.
+</pre>
 
 
 ---

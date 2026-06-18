@@ -4,6 +4,7 @@ order: 15
 ---
 ## THOUGHTS ON THE WORKS OF PROVIDENCE.
 
+<pre>
 A R I S E, my soul, on wings enraptur’d, rise
   To praise the monarch of the earth and skies,
   Whose goodness and benificence appear
@@ -135,6 +136,7 @@ A R I S E, my soul, on wings enraptur’d, rise
   But little homage, and but little praise.
   To him, whose works arry’d with mercy shine,
   What songs should rise, how constant, how divine!
+</pre>
 
 
 ---

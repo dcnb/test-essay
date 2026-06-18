@@ -4,6 +4,7 @@ order: 34
 ---
 ## ON THE DEATH OF J. C. AN INFANT.
 
+<pre>
 NO more the flow’ry scenes of pleasure rife,
   Nor charming prospects greet the mental eyes,
   No more with joy we view that lovely face
@@ -46,6 +47,7 @@ NO more the flow’ry scenes of pleasure rife,
   The gift of heav’n intrusted to your hand
   Cheerful resign at the divine command:
   Not at your bar must sov’reign Wisdom stand.
+</pre>
 
 
 ---

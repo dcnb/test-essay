@@ -4,6 +4,7 @@ order: 25
 ---
 ## TO THE RIGHT HONOURABLE WILLIAM, EARL OF DARTMOUTH
 
+<pre>
 His Majesty’s Principal
     Secretary of State for North-America, &c.
 
@@ -50,6 +51,7 @@ His Majesty’s Principal
   May fiery coursers sweep th’ ethereal plain,
   And bear thee upwards to that blest abode,
   Where, like the prophet, thou shalt find thy God.
+</pre>
 
 
 ---

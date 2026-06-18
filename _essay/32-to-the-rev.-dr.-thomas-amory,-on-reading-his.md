@@ -5,6 +5,7 @@ order: 33
 ## TO THE REV. DR. THOMAS AMORY, ON READING HIS SERMONS ON DAILY DEVOTION, IN
       WHICH THAT DUTY IS RECOMMENDED AND ASSISTED.
 
+<pre>
 TO cultivate in ev’ry noble mind
   Habitual grace, and sentiments refin’d,
   Thus while you strive to mend the human heart,
@@ -33,6 +34,7 @@ TO cultivate in ev’ry noble mind
   When kingdoms fall, and fleeting Fame’s no more,
   May Amory triumph in immortal fame,
   A nobler title, and superior name!
+</pre>
 
 
 ---

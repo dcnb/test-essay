@@ -5,6 +5,7 @@ order: 30
 ## TO A GENTLEMAN AND LADY ON THE DEATH OF THE LADY’S BROTHER AND SISTER, AND
       A CHILD OF THE NAME OF AVIS, AGED ONE YEAR.
 
+<pre>
 ON Death’s domain intent I fix my eyes,
   Where human nature in vast ruin lies:
   With pensive mind I search the drear abode,
@@ -39,6 +40,7 @@ ON Death’s domain intent I fix my eyes,
   Unknown, untasted in a state like this.
   With tow’ring hopes, and growing grace arise,
   And seek beatitude beyond the skies.
+</pre>
 
 
 ---

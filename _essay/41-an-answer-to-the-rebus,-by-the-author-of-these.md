@@ -4,6 +4,7 @@ order: 42
 ---
 ## AN ANSWER TO THE REBUS, BY THE AUTHOR OF THESE POEMS.
 
+<pre>
 THE poet asks, and Phillis can’t refuse
   To show th’ obedience of the Infant muse.
   She knows the Quail of most inviting taste
@@ -24,5 +25,8 @@ THE poet asks, and Phillis can’t refuse
   She too much annual tribute pay
   To Britain of immortal fame.
   And add new glory to her name.
+</pre>
 
+<pre>
 F I N I S.
+</pre>
